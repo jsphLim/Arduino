@@ -5,4 +5,5 @@ Test1为主类
 Recognizer为负责语音识别的类
 SerialPortListener为串口通信类
 
+其他项目功能暂时不上传
 
